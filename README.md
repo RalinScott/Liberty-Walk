@@ -1,0 +1,1 @@
+This is my final project at Tech Elevator! It is a website designed to help you navigate through Philly, checking out all the venues there while earning badges! My team worked very hard on this and I am very proud to show it off to more people!
