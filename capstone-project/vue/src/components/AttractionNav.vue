@@ -69,7 +69,7 @@ export default {
 
         createMap() {
             const loader = new Loader({
-                apiKey: "AIzaSyBqXUJKJ-biBNEFS4eDEVxPM-elng6ewqw",
+                apiKey: import.meta.env.VITE_REMOTE_KEY,
                 libraries: ["places"],
             });
 
