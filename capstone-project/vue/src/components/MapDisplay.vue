@@ -73,7 +73,7 @@ export default {
   mounted() {
 
     const loader = new Loader({
-      apiKey: "AIzaSyBqXUJKJ-biBNEFS4eDEVxPM-elng6ewqw", // API key
+      apiKey: import.meta.env.VITE_REMOTE_KEY, // API key
       libraries: ["places"],
     });
 
